@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontAlignY=45&desc=A%20Frontend%20Developer&descSize=30&descAlignY=85&section=header" />
 
-<h3>FrontEnd Developer</h3>
-
 Satria Bahari is a highly skilled frontend developer known for his technical expertise and creative flair. Proficient in HTML, CSS, and JavaScript, he excels in creating responsive interfaces and seamless user experiences using frameworks like React, Angular, and Vue.js. Recognized for his problem-solving abilities, Satria ensures projects launch smoothly and evolve continuously. His keen artistic sensibility and effective collaboration with design teams make him a valuable asset. With strong project management skills, Satria delivers high-quality results on time, making him a leader in crafting innovative user experiences.
 
 * 🏢 I'm currently working from home as a full-stack software engineer at [Seeru](https://seeru.com).
