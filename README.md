@@ -145,7 +145,17 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
   <img src="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true" />
 </picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari&theme=apprentice" />
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari&theme=swift"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari&theme=apprentice"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari" />
+</picture>
 
 
 
