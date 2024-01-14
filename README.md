@@ -1,6 +1,4 @@
-<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Satria Bahari</h1>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi,%20I'm%20Satria%20Bahari&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi,%20I'm%20Satria%20Bahari&fontSize=60" />
 
 <h3>FrontEnd Developer</h3>
 
