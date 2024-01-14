@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:d4d4d4&height=150&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontColor=FFFFAF&fontAlignY=45&animation=blinking&desc=A%20Frontend%20Developer&descSize=30&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:d4d4d4&height=150&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontColor=FFFFAF&fontAlignY=45&animation=twinkling&desc=A%20Frontend%20Developer&descSize=30&descAlignY=85&section=header" />
 
 Satria Bahari is a highly skilled frontend developer known for his technical expertise and creative flair. Proficient in HTML, CSS, and JavaScript, he excels in creating responsive interfaces and seamless user experiences using frameworks like React, Angular, and Vue.js. Recognized for his problem-solving abilities, Satria ensures projects launch smoothly and evolve continuously. His keen artistic sensibility and effective collaboration with design teams make him a valuable asset. With strong project management skills, Satria delivers high-quality results on time, making him a leader in crafting innovative user experiences.
 
