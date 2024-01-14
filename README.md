@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?text=Hai Semuanya&animation=fadeIn&type=cylinder&height=300&section=header&fontSize=90&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?text=Hai Semuanya&animation=fadeIn&type=waving&height=100&color=gradient" />
+
