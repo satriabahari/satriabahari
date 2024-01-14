@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontAlignY=45&desc=A%20Frontend%20Developer&descSize=30&descAlignY=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontAlignY=45&desc=A%20Frontend%20Developer&descSize=30&descAlignY=90" />
 
 <h3>FrontEnd Developer</h3>
 
