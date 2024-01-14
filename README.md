@@ -26,16 +26,15 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
     target="_blank"
     rel="noreferrer"
     ><img
-      class="m-4"
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
       width="30"
       height="30"
       alt="HTML5"
+      style="margin:50px"
   /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-      class="m-4"
       width="30"
       height="30"
       alt="CSS3"
