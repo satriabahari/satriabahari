@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20there!"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello%20there!"
   />
 
   <h3>Let's Connect and have a Chat!</h3>
