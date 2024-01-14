@@ -3,6 +3,8 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20there!"
   />
 
+  <h3>Let's Connect and have a Chat!</h3>
+
   <div>
     <a href="https://www.instagram.com/satriabaharii_/">
       <img
