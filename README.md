@@ -1,8 +1,6 @@
-<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;**Hi, I'm Ryan**</h1>
-=====================================================================================================================================
+<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Satria Bahari</h1>
 
 FrontEnd Developer
-------------------
 
 Satria Bahari is a highly skilled frontend developer known for his technical expertise and creative flair. Proficient in HTML, CSS, and JavaScript, he excels in creating responsive interfaces and seamless user experiences using frameworks like React, Angular, and Vue.js. Recognized for his problem-solving abilities, Satria ensures projects launch smoothly and evolve continuously. His keen artistic sensibility and effective collaboration with design teams make him a valuable asset. With strong project management skills, Satria delivers high-quality results on time, making him a leader in crafting innovative user experiences.
 
