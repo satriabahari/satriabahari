@@ -135,7 +135,7 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
 
 <a href="http://www.github.com/satriabahari"><img src="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&hide=&count_private=true&title_color=09090b&text_color=52525b&icon_color=52525b&bg_color=e4e4e7&hide_border=true&show_icons=true" alt="satriabahari's GitHub stats" /></a>
 
-<a href="http://www.github.com/satriabahari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari&stroke=3f3f46&background=e4e4e7&ring=3f3f46&fire=3f3f46&currStreakNum=3f3f46&currStreakLabel=3382ed&sideNums=3f3f46&sideLabels=3f3f46&dates=3f3f46&hide_border=true" /></a>
+<a href="http://www.github.com/satriabahari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari&stroke=ffffff&background=312e81&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/satriabahari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br />
