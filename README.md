@@ -133,7 +133,7 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/satriabahari"><img src="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="satriabahari's GitHub stats" /></a>
+<a href="http://www.github.com/satriabahari"><img src="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&hide=&count_private=true&title_color=fafafa&text_color=d4d4d4&icon_color=d4d4d4&bg_color=171717&hide_border=true&show_icons=true" alt="satriabahari's GitHub stats" /></a>
 
 <a href="http://www.github.com/satriabahari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
