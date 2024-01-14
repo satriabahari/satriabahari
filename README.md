@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satria Bahari
+<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;**Hi, I'm Ryan**</h1>
 =====================================================================================================================================
 
 FrontEnd Developer
@@ -10,6 +10,11 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-satria.vercel.app)
 * ✉️  You can contact me at [satriaabaharii@gmail.com](mailto:satriaabaharii@gmail.com)
 * 🧠  I'm learning NextJS
+* 🏢 I'm currently working from home as a full-stack software engineer at [Seeru](https://seeru.com).
+* ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
+* ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
+* 💬 Feel free to ask me anything related to React, styling, or anything.
+* 😄 Pronouns: he/him
 
 [![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@satriabaharii__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
