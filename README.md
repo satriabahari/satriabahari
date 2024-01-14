@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://www.instagram.com/satriabaharii_/">
-  <img src="https://github.com/satriabahari/satriabahari/assets/121304362/636bd63f-22df-490e-87b9-e012cc397f01"/>
+  <img height="40" src="https://github.com/satriabahari/satriabahari/assets/121304362/636bd63f-22df-490e-87b9-e012cc397f01"/>
 </a>
 
 <a href="https://portfolio-satria.vercel.app/">
-  <img src=""/>
+  <img height="40" src=""/>
 </a>
 
 <a href="https://www.tiktok.com/@satriaabaharii/">
-  <img src="https://github.com/satriabahari/satriabahari/assets/121304362/63b3d782-c779-4a6b-a5f5-1c040a47d63a"/>
+  <img height="40" src="https://github.com/satriabahari/satriabahari/assets/121304362/63b3d782-c779-4a6b-a5f5-1c040a47d63a"/>
 </a>
 
 <a href="https://www.linkedin.com/in/satria-bahari/">
-  <img src=""/>
+  <img height="40" src=""/>
 </a>
 </div>
