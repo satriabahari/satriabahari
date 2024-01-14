@@ -141,4 +141,4 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&langs_count=10&theme=apprentice" />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:d4d4d4&height=100&section=footer" />
