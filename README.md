@@ -30,7 +30,6 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
       width="30"
       height="30"
       alt="HTML5"
-      style="margin:50px"
   /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
     ><img
