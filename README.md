@@ -131,7 +131,7 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
 </p>
 
 
-### Badges
+### Stats
 
 <b>My GitHub Stats</b>
 
