@@ -14,6 +14,9 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
 <a href="https://www.github.com/satriabahari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/satriabahari?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
 
+<a href="https://www.github.com/satriabahari" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/profileview/satriabahari?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
+
 ### Skills
 
 
