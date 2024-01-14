@@ -2,7 +2,6 @@
 
 Satria Bahari is a highly skilled frontend developer known for his technical expertise and creative flair. Proficient in HTML, CSS, and JavaScript, he excels in creating responsive interfaces and seamless user experiences using frameworks like React, Angular, and Vue.js. Recognized for his problem-solving abilities, Satria ensures projects launch smoothly and evolve continuously. His keen artistic sensibility and effective collaboration with design teams make him a valuable asset. With strong project management skills, Satria delivers high-quality results on time, making him a leader in crafting innovative user experiences.
 
-* 🏢 I'm currently working from home as a full-stack software engineer at [Seeru](https://seeru.com).
 * ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
 * ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
 * 💬 Feel free to ask me anything related to React, styling, or anything.
