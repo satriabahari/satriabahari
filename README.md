@@ -14,8 +14,7 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
 [![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
 [![Mail Badge](https://img.shields.io/badge/-@satriabaharii_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
 [![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
-[![image](https://github.com/satriabahari/satriabahari/assets/121304362/f12dcac9-eacc-42a9-91a6-2f175a4360e6)
-(https://img.shields.io/badge/-satriaabaharii@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://www.tiktok.com/@satriaabaharii/)
+[![image](https://img.shields.io/badge/-satriaabaharii@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://www.tiktok.com/@satriaabaharii/)
 [![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
 [![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
 
