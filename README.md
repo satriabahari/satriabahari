@@ -133,18 +133,13 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/satriabahari"><img src="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&hide=&count_private=true&title_color=09090b&text_color=52525b&icon_color=52525b&bg_color=e4e4e7&hide_border=true&show_icons=true" alt="satriabahari's GitHub stats" /></a>
-
-<a href="http://www.github.com/satriabahari"><img src="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&theme=swift#gh-dark-mode-only" alt="satriabahari's GitHub stats" /></a>
-<a href="http://www.github.com/satriabahari"><img src="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&theme=apprentice#gh-light-mode-only" alt="satriabahari's GitHub stats" /></a>
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&theme=swift"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&theme=apprentice"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
