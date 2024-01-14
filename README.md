@@ -11,9 +11,9 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
 * ✉️  You can contact me at [satriaabaharii@gmail.com](mailto:satriaabaharii@gmail.com)
 * 🧠  I'm learning NextJS
 
-[![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
+[![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@satriabaharii_-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
-[![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-c0392b?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
 [![Tiktok](https://img.shields.io/badge/-satriaabaharii@gmail.com-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@satriaabaharii/)
 [![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
 [![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
