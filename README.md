@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://portfolio-satria.vercel.app/">
-  <img height="40" src=""/>
+  <img height="40" src="https://github.com/satriabahari/satriabahari/assets/121304362/f17196ba-366e-4975-9919-2372fcf25827"/>
 </a>
 
 <a href="https://www.tiktok.com/@satriaabaharii/">
@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.linkedin.com/in/satria-bahari/">
-  <img height="40" src=""/>
+  <img height="40" src="https://github.com/satriabahari/satriabahari/assets/121304362/a33a2544-fda6-4598-bad5-d0eb01d7e388"/>
 </a>
 </div>
