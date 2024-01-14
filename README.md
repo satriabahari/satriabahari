@@ -12,7 +12,7 @@ Satria Bahari is a highly skilled frontend developer known for his technical exp
 * 🧠  I'm learning NextJS
 
 [![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0e76a8?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
-[![Instagram Badge](https://img.shields.io/badge/-@satriabaharii_-e84393?style=flat&labelColor=f97316&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
+[![Instagram Badge](https://img.shields.io/badge/-@satriabaharii_-d946ef?style=flat&labelColor=d946ef&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
 [![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-c0392b?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
 [![Tiktok](https://img.shields.io/badge/-satriaabaharii@gmail.com-c0392b?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@satriaabaharii/)
 [![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
