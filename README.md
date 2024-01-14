@@ -16,6 +16,13 @@ src="https://img.shields.io/github/followers/satriabahari?logo=github&style=for-
 
 <a href="https://www.github.com/satriabahari" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=satriabahari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="satriabahari" /></a>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Aulia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aulianza/) 
+[![Mail Badge](https://img.shields.io/badge/-@aulianza-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/aulianza) 
+[![Twitter Badge](https://img.shields.io/badge/-@aulianzaa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aulianzaa)](https://twitter.com/aulianzaa) 
+[![Mail Badge](https://img.shields.io/badge/-aulianza.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aulianza.dev@gmail.com)
+[![](https://komarev.com/ghpvc/?username=aulianza&color=blue&label=Profile%20Views)](https://github.com/aulianza/aulianza)
+[![](https://img.shields.io/github/followers/aulianza?label=GitHub%20Followers)](https://github.com/aulianza)
+
 ### Skills
 
 
