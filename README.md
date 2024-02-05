@@ -136,6 +136,8 @@ I focus on creating web applications that not only provide precise experiences b
 
 <img src="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&theme=apprentice" />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&theme=transparent)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari&theme=apprentice" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&langs_count=10&theme=apprentice" />
