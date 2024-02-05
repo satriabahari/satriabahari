@@ -138,9 +138,9 @@ I focus on creating web applications that not only provide precise experiences b
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari&theme=apprentice" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&theme=apprentice)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&theme=apprentice)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=satriabahari)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=satriabahari)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:d4d4d4&height=100&section=footer" />
 
