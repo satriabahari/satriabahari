@@ -140,9 +140,7 @@ I focus on creating web applications that not only provide precise experiences b
 
 <b>My GitHub Stats</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&theme=apprentice)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=apprentice&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=apprentice&card_width=470)
 
