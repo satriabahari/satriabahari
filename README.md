@@ -134,13 +134,13 @@ I focus on creating web applications that not only provide precise experiences b
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&theme=apprentice" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&show_icons=true&theme=apprentice)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari&theme=apprentice" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&langs_count=10&theme=apprentice" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:d4d4d4&height=100&section=footer" />
 
