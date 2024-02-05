@@ -76,6 +76,12 @@ I focus on creating web applications that not only provide precise experiences b
       alt="PHP"
     />
   </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" 
+      width="36" 
+      height="36" 
+      alt="Laravel" />
+  </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
@@ -139,8 +145,6 @@ I focus on creating web applications that not only provide precise experiences b
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=apprentice&card_width=470)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&theme=apprentice)
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=satriabahari)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:d4d4d4&height=100&section=footer" />
 
