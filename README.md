@@ -18,31 +18,33 @@ I focus on creating web applications that not only provide precise experiences b
 [![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
 
 
-### Skills
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?perline=10&i=html,css,bootstrap,tailwind,js,ts,react,vite,next,nodejs,express,nest,php,laravel,redux,jest,prisma,mysql,postgres)](https://skillicons.dev)
 
-### Bundlers
+## Bundlers
 
 [![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun)](https://skillicons.dev)
 
-### Tools
+## Tools
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,notion)](https://skillicons.dev)
 
-### Others
+## Others
 
 [![My Skills](https://skillicons.dev/icons?i=github,netlify,vercel,stackoverflow)](https://skillicons.dev)
 
-### Stats
+## Stats
 
-<b>My GitHub Stats</b>
+###My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=react&show_icons=true&)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=react&card_width=470)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=495&langs_count=7&layout=compact&theme=react)
+
+###My Wakatime Stats
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=react)
 
