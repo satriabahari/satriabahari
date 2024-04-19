@@ -16,9 +16,25 @@ I focus on creating web applications that not only provide precise experiences b
 [![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
 [![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
 
+### Socials
+
+[![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,instagram,gmail)](https://skillicons.dev)
+
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vite,next,node,express,nest,php,laravel,redux,mysql,postgree,prisma,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vite,next,nodejs,express,nest,php,laravel,redux,jest,mysql,postgres,prisma,github)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,powershell,bash,notion,figma)](https://skillicons.dev)
+
+### Bundlers
+
+[![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun)](https://skillicons.dev)
+
+### Others
+
+[![My Skills](https://skillicons.dev/icons?i=netlify,vercel,stackoverflow)](https://skillicons.dev)
 
 
 <p align="left">
