@@ -144,7 +144,7 @@ I focus on creating web applications that not only provide precise experiences b
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=react&card_width=470)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=490&langs_count=7&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=495&langs_count=7&layout=compact&theme=react)
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=react)
 
