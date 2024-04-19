@@ -15,10 +15,9 @@ I focus on creating web applications that not only provide precise experiences b
 [![Tiktok](https://img.shields.io/badge/-satriaabaharii-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@satriaabaharii/)
 [![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
 [![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
+![Codewars](https://img.shields.io/badge/satiabahari-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Monkeytype](https://img.shields.io/badge/SatriaAxel-333438?style=for-the-badge&logo=monkeytype&logoColor=E2B713)
 
-### Socials
-
-[![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,instagram,gmail)](https://skillicons.dev)
 
 ### Skills
 
