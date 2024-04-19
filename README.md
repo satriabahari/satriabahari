@@ -33,17 +33,13 @@ I focus on creating web applications that not only provide precise experiences b
 
 [![My Skills](https://skillicons.dev/icons?i=github,netlify,vercel,stackoverflow)](https://skillicons.dev)
 
-### Stats
-
-* #### My GitHub Stats
+### Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=react&show_icons=true&)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=react&card_width=470)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=495&langs_count=7&layout=compact&theme=react)
-
-* #### My Wakatime Stats
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=react)
 
