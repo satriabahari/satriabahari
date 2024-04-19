@@ -144,13 +144,11 @@ I focus on creating web applications that not only provide precise experiences b
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=react&card_width=470)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&theme=react&exclude_repo=satria.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&layout=compact&theme=react&exclude_repo=satria.com)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=satriabahari)](https://github.com/satriabahari/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari)](https://github.com/satriabahari/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&theme=react)](https://github.com/satriabahari/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
 
