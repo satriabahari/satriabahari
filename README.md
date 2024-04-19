@@ -150,5 +150,7 @@ I focus on creating web applications that not only provide precise experiences b
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=satriabahari)](https://github.com/satriabahari/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari)](https://github.com/satriabahari/github-readme-stats)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
 
