@@ -20,7 +20,7 @@ I focus on creating web applications that not only provide precise experiences b
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vite,next,nodejs,express,nest,php,laravel,redux,jest,prisma,mysql,postgres,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=10&i=html,css,bootstrap,tailwind,js,ts,react,vite,next,nodejs,express,nest,php,laravel,redux,jest,prisma,mysql,postgres,github)](https://skillicons.dev)
 
 ### Tools
 
