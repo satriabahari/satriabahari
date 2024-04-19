@@ -36,7 +36,7 @@ I focus on creating web applications that not only provide precise experiences b
 
 ### Stats
 
-#### My GitHub Stats
+* #### My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=react&show_icons=true&)
 
@@ -44,7 +44,7 @@ I focus on creating web applications that not only provide precise experiences b
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=495&langs_count=7&layout=compact&theme=react)
 
-#### My Wakatime Stats
+* #### My Wakatime Stats
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=react)
 
