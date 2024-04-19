@@ -20,19 +20,19 @@ I focus on creating web applications that not only provide precise experiences b
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?perline=10&i=html,css,bootstrap,tailwind,js,ts,react,vite,next,nodejs,express,nest,php,laravel,redux,jest,prisma,mysql,postgres,github)](https://skillicons.dev)
-
-### Tools
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,powershell,bash,notion,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=10&i=html,css,bootstrap,tailwind,js,ts,react,vite,next,nodejs,express,nest,php,laravel,redux,jest,prisma,mysql,postgres)](https://skillicons.dev)
 
 ### Bundlers
 
 [![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun)](https://skillicons.dev)
 
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,notion)](https://skillicons.dev)
+
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=netlify,vercel,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,netlify,vercel,stackoverflow)](https://skillicons.dev)
 
 ### Stats
 
