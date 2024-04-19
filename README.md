@@ -18,6 +18,8 @@ I focus on creating web applications that not only provide precise experiences b
 
 ### Skills
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vite,next,node,express,nest,php,laravel,redux,mysql,postgree,prisma,github)](https://skillicons.dev)
+
 
 <p align="left">
   <a
