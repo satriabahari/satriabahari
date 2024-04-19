@@ -148,6 +148,8 @@ I focus on creating web applications that not only provide precise experiences b
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&layout=compact&theme=react&exclude_repo=satria.com)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&theme=react)](https://github.com/satriabahari/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
