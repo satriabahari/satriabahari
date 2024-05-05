@@ -4,11 +4,6 @@ I'm Satria Bahari, a student majoring in Information Systems at the University o
 
 I focus on creating web applications that not only provide precise experiences but are also user-friendly. My specialization includes JavaScript and TypeScript, along with frameworks such as React, Vite, and Next.js. As a quick learner and adaptive thinker, I thrive in a dynamic environment where innovation is a driving force. My collaborative nature allows me to seamlessly integrate with teams, contributing not only to my technical skills but also embodying a humble attitude that values input from every team member.
 
-* ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
-* ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
-* 💬 Feel free to ask me anything related to React, styling, or anything.
-* 😄 Pronouns: he/him
-
 [![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@satriabaharii__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
 [![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
