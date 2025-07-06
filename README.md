@@ -14,7 +14,7 @@ I focus on creating web applications that not only provide precise experiences b
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?perline=12&i=html,css,bootstrap,tailwind,js,ts,vue,react,vite,astro,next,nodejs,express,php,laravel,go,redux,jest,prisma,kotlin,mysql,postgres,firebase,supabase)
+![My Skills](https://skillicons.dev/icons?perline=12&i=html,css,bootstrap,tailwind,js,ts,vue,react,vite,astro,next,nodejs,express,php,laravel,golang,redux,jest,prisma,kotlin,mysql,postgres,firebase,supabase)
 
 ### Tools
 
