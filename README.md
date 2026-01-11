@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff5c,100:ffffb8&height=150&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontColor=fbe400&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff8a,100:ffffe6&height=150&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontColor=fbe400&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" />
  
 I'm Satria Bahari, a student majoring in Information Systems at the University of Jambi. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication.
  
@@ -34,5 +34,5 @@ I focus on creating web applications that not only provide precise experiences b
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=react)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffb8,100:ffff5c&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffe6,100:ffff8a&height=100&section=footer" />
 
