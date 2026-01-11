@@ -34,5 +34,5 @@ I focus on creating web applications that not only provide precise experiences b
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=react)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffe6,100:ffff8a&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffffe6,0:ffff8a&height=100&section=footer" />
 
