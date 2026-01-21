@@ -26,13 +26,13 @@ I focus on creating web applications that not only provide precise experiences b
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=highcontrast&show_icons=true&)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=maroongold&show_icons=true&)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=highcontrast&card_width=470)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=maroongold&card_width=470)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=495&langs_count=7&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=495&langs_count=7&layout=compact&theme=maroongold)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=highcontrast)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=maroongold)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffffe6,0:ffff8a&height=100&section=footer" />
 
