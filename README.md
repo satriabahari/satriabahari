@@ -18,15 +18,15 @@ I focus on creating web applications that not only provide precise experiences b
 
 ![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,bootstrap,js,vite,astro,nodejs,express,php,laravel,golang,redux,prisma,mysql,postgres,firebase,supabase)
 
-<!--
 ### Tools
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion)
--->
+<!--
 
 ### Others
 
 ![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun,netlify,vercel,stackoverflow)
+-->
 
 ### Statistics
 
