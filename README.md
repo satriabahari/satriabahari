@@ -11,18 +11,22 @@ I focus on creating web applications that not only provide precise experiences b
 [![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
 [![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
 
+### Core Tech Stacks
+![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,kotlin)
 
-### Skills
+### Other Tech Stacks
 
-![My Skills](https://skillicons.dev/icons?perline=12&i=html,css,bootstrap,tailwind,js,ts,react,vite,astro,next,nodejs,express,php,laravel,golang,redux,prisma,kotlin,mysql,postgres,firebase,supabase)
+![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,bootstrap,js,vite,astro,nodejs,express,php,laravel,golang,redux,prisma,mysql,postgres,firebase,supabase)
 
+<!--
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,notion)
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion)
+-->
 
 ### Others
 
-![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun,github,netlify,vercel,stackoverflow)
+![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun,netlify,vercel,stackoverflow)
 
 ### Statistics
 
